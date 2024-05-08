@@ -1,5 +1,5 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
-### DATE: 08.03.2024
+# EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
+### DATE: 25.03.2024
 ### NAME: AKSHAYA LAKSHMI VS
 ### ROLL NUMBER: 212222040005
 ### DEPT: CSE
